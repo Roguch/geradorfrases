@@ -1,0 +1,2 @@
+# geradorfrases
+criar frases aleatorias
